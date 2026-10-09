@@ -1,5 +1,1 @@
-task.spawn(function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/meeqscripts/mm2/refs/heads/main/autofarm"))()
-end)
-task.wait(0.2)
 loadstring(game:HttpGet("https://star-scripts.com/api/run/fpTKitlkslU1WOgNjaAuiG48XZqt3rL9"))()
